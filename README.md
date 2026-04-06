@@ -106,6 +106,10 @@ npm start
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
 ---
+## 🌐 Live Demo
+
+👉 https://nutrivision-analyzer.netlify.app
+
 
 ## 📄 License
 
