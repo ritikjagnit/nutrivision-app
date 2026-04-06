@@ -1,0 +1,18 @@
+<svg width="220" height="60" viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00c853; stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:#64dd17; stop-opacity:1"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Icon (Leaf + Eye combo) -->
+  <circle cx="30" cy="30" r="20" fill="url(#grad)"></circle>
+  <path d="M20 30 Q30 15 40 30 Q30 45 20 30Z" fill="white"></path>
+  <circle cx="30" cy="30" r="5" fill="#00c853"></circle>
+
+  <!-- Text -->
+  <text x="60" y="35" font-family="Arial, sans-serif" font-size="22" fill="#222">
+    Nutri<tspan fill="#00c853">Vision</tspan>
+  </text>
+</svg>
